@@ -1,0 +1,6 @@
+{
+  "name": "SchemeSaathi — Citizen Scheme & Eligibility Portal",
+  "description": "Multilingual Indian government scheme discovery, progressive eligibility verification, document readiness assistant, and real-time application tracker powered by YojanaMitra.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
